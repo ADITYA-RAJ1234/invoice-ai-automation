@@ -1,0 +1,13 @@
+streamlit>=1.35
+pandas
+pdfplumber>=0.11
+rapidfuzz>=3.0
+dateparser
+pydantic>=2
+langchain-ollama>=0.3
+langchain-google-genai
+google-genai
+pytesseract
+pillow
+reportlab
+requests

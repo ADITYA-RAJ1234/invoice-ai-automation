@@ -1,0 +1,14 @@
+po_number,vendor_name,po_amount,currency,description
+PO-1001,Acme Supplies Pvt Ltd,12500.0,INR,Steel brackets and fasteners
+PO-1002,Globex Logistics,10000.0,INR,Freight services (will be billed in parts)
+PO-1003,Initech Services,8000.0,INR,Consulting
+PO-1004,Umbrella Tech Solutions,6000.0,INR,Annual licence
+PO-1005,Hooli Systems,5000.0,INR,Cloud setup
+CON02858,QualityHosting AG,34.73,EUR,"Hosted mail, May 2014 (contract number used as PO)"
+SCONL000000444,e-Luscious Nederland B.V.,49.99,EUR,Coffee machine maintenance kit
+po_number_123,Sammy Maystone,127.5,USD,Repair and cleaning
+PO-2004,"Amazon Web Services, Inc.",5.0,USD,AWS usage July 2014
+PO-2005,Azure Interior,250.0,USD,Office supplies
+PO-2006,WS Retail Services Pvt. Ltd.,319.0,INR,Memory card
+PO-2007,NETPRESSE,60.0,EUR,Online listing
+PO-2008,Coolblue B.V.,5000.0,EUR,Electronics (billed in two invoices)
